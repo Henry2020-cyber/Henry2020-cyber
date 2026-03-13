@@ -1,59 +1,72 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Henry2020-cyber/Portifolio/main/public/logo-jh.png" width="100" />
+</div>
+
+<h1 align="center">Olá! Eu sou o <a href="https://henry2020-cyber.github.io/Portifolio/" target="_blank">Jeremias Henrique</a> 👋</h1>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Tipo_Sangu%C3%ADneo-AB%2B-FF4D00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel-green?style=for-the-badge" />
+</div>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Henry2020-cyber/Portifolio/main/public/logo-jh.png" width="80" />
+  <strong>ASSISTENTE ADMINISTRATIVO | 3D DEVELOPER (FIVEM) | WEB DEV</strong>
 </p>
 
-<h1 align="center">JH.STUDIO | Jeremias Henrique</h1>
-
 <p align="center">
-  <strong>ASSISTENTE ADMINISTRATIVO | 3D DEVELOPER (FIVEM)</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LUA-AVANÇADO-%23FF4D00?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLENDER-PREMIUM-%23FF4D00?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADMIN-SPECIALIST-%23FF4D00?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  Especialista em unir gestão organizacional de alto nível com desenvolvimento técnico criativo.
 </p>
 
 ---
 
-### 🌑 IDENTIDADE VISUAL & FOCO
-Especialista em unir a **organização administrativa de alto nível** com o **desenvolvimento técnico criativo**. Criador da marca **JH.STUDIO**, focada em elevar o padrão estético e operacional de servidores FiveM e rotinas corporativas.
-
-- ⚡ **Domínio Técnico:** Scripts complexos em LUA e modelagem 3D otimizada (YDR/YTD).
-- 📊 **Gestão Operacional:** Emissão de NF-e, controle de pessoal e processos administrativos.
-- 🚀 **Web Stack:** Construindo ferramentas modernas com Next.js, TypeScript e React.
+### 🌑 JH.STUDIO | CORE
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">💻 Web & Admin</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/NF--e-FF4D00?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/RH-FF4D00?style=for-the-badge" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎮 Game Dev & 3D</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+          <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+          <img src="https://img.shields.io/badge/FiveM-EB4034?style=for-the-badge&logo=fivem&logoColor=white" />
+          <img src="https://img.shields.io/badge/3D_Modeling-white?style=for-the-badge" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🛠️ STACK TECNOLÓGICA
-<p align="left">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
----
-
-### 📊 PERFORMANCE & IMPACTO
-<p align="left">
+### 📈 PERFORMANCE DASHBOARD
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henry2020-cyber&show_icons=true&theme=vue-dark&icon_color=FF4D00&title_color=FF4D00&text_color=ffffff&bg_color=000000&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry2020-cyber&layout=compact&langs_count=8&theme=vue-dark&icon_color=FF4D00&title_color=FF4D00&text_color=ffffff&bg_color=000000&hide_border=true" />
 </p>
 
 ---
 
+### 🐍 CONTRIBUTION SNAKE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Henry2020-cyber/Henry2020-cyber/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 📬 CONEXÃO DIRETA
-<p align="left">
-  <a href="https://wa.me/5511981832875" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://github.com/Henry2020-cyber" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:jeremiashenrique2020@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="https://wa.me/5511981832875" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/Henry2020-cyber" target="_blank"><img src="https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:jeremiashenrique2020@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
