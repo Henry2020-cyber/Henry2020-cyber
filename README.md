@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Henry2020-cyber/Portifolio/main/public/logo-jh.png" width="100" />
+  <h1 align="center" style="border-bottom: none;">
+    <span style="color: #FF4D00;">JH.STUDIO</span> | Jeremias Henrique
+  </h1>
+  <p align="center">
+    <strong>FULLSTACK DEVELOPER | 3D TECHNICAL ARTIST | ADMIN SPECIALIST</strong>
+  </p>
 </div>
-
-<h1 align="center">Olá! Eu sou o <a href="https://henry2020-cyber.github.io/Portifolio/" target="_blank">Jeremias Henrique</a> 👋</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Tipo_Sangu%C3%ADneo-AB%2B-%23FF4D00?style=for-the-badge" />
