@@ -22,7 +22,7 @@
       <td width="50%" valign="top">
         <h3 align="center">💻 Web & Admin</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind" />
         </p>
       </td>
       <td width="50%" valign="top">
