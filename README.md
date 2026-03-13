@@ -49,8 +49,8 @@
 
 ### 📈 PERFORMANCE DASHBOARD
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henry2020-cyber&show_icons=true&theme=vue-dark&icon_color=FF4D00&title_color=FF4D00&text_color=ffffff&bg_color=000000&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry2020-cyber&layout=compact&langs_count=8&theme=vue-dark&icon_color=FF4D00&title_color=FF4D00&text_color=ffffff&bg_color=000000&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henry2020-cyber&show_icons=true&theme=vue-dark&icon_color=FF4D00&title_color=FF4D00&text_color=ffffff&bg_color=000000&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry2020-cyber&layout=compact&langs_count=10&theme=vue-dark&icon_color=FF4D00&title_color=FF4D00&text_color=ffffff&bg_color=000000&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 ---
