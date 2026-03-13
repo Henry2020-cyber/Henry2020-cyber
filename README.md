@@ -22,15 +22,13 @@
       <td width="50%" valign="top">
         <h3 align="center">💻 Web & Admin</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+          <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
         </p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">🎮 Game Dev & 3D</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-          <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+          <img src="https://skillicons.dev/icons?i=lua,blender,ae,ps" />
         </p>
       </td>
     </tr>
